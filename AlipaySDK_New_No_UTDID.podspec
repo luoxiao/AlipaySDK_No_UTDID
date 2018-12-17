@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "AlipaySDK_New"
-  s.version      = "15.6.0"
-  s.summary      = "iOS 标准支付宝SDK，一直保持最新"
+  s.name         = "AlipaySDK_New_No_UTDID"
+  s.version      = "15.5.9"
+  s.summary      = "iOS  标准支付宝SDK，No_UTDID ，一直保持最新"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -84,7 +84,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/luoxiao/AlipaySDK.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/luoxiao/AlipaySDK_No_UTDID.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
